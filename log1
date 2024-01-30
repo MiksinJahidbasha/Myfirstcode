@@ -1,0 +1,9 @@
+Steps to push data to github server:
+
+Step1:  Create one file 
+step2: git init
+step3: git add filename
+step4: git commit -m "message"
+step5: git remote add origin https or ssh reporosatary link
+step6: git origin master
+
