@@ -1,0 +1,5 @@
+adding git hub user name and email
+git config --global user.name "MiskinJahidbasha"
+git config --global user.email "jahidbasha464@gmail.com"
+git config --global -e
+
